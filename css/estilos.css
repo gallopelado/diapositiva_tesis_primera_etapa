@@ -3,3 +3,15 @@
     position: absolute;
     right: -2em;
 }
+
+.logo_iec {
+    width: 9.5em;
+}
+
+.list_descripcion_empresa {
+    font-size: smaller;
+}
+
+.subrayado {
+    text-decoration: underline;
+}
