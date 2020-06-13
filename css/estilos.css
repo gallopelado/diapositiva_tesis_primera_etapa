@@ -15,3 +15,7 @@
 .subrayado {
     text-decoration: underline;
 }
+
+.parrafo_descripcion {
+    font-size: smaller;
+}
