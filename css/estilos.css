@@ -19,3 +19,8 @@
 .parrafo_descripcion {
     font-size: smaller;
 }
+
+.organigrama {
+    border: thin solid;
+    padding: 16px;
+}
