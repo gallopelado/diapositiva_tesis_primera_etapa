@@ -50,3 +50,9 @@
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
 }
+
+.cita {
+    text-align: center;
+    font-size: smaller;
+    width: 65% !important;
+}
