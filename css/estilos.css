@@ -28,3 +28,20 @@
 .pregunta_investigacion {
     font-weight: 200;
 }
+
+.lista_requerimientos {
+    list-style-type: none;
+    padding: 0 !important;
+    border: 1px solid #ddd;
+    font-size: x-large;
+}
+
+.lista_requerimientos li {
+    list-style-type: decimal;
+    padding: 8px 16px;
+    border-bottom: 1px solid #ddd;
+}
+
+.lista_requerimientos li:last-child {
+    border-bottom: none
+  }
