@@ -60,3 +60,11 @@
 .titulo_cita {
     text-align: left;
 }
+
+.referencia_bibliografica {
+    font-size: smaller;
+}
+
+.titulo_libro_cita_referencia {    
+    font-style: italic;
+}
