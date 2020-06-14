@@ -24,3 +24,7 @@
     border: thin solid;
     padding: 16px;
 }
+
+.pregunta_investigacion {
+    font-weight: 200;
+}
