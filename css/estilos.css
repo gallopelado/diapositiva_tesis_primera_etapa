@@ -44,4 +44,9 @@
 
 .lista_requerimientos li:last-child {
     border-bottom: none
-  }
+}
+
+.fuente_articulos_ley {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
