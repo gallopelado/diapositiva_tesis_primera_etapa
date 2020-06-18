@@ -5,7 +5,11 @@
 }
 
 .logo_iec {
-    width: 9.5em;
+    width: 5em;
+}
+
+h4 {
+    font-family: 'Times New Roman', Times, serif !important;
 }
 
 .list_descripcion_empresa {
@@ -46,6 +50,7 @@
 }
 
 .fuente_articulos_ley {
+    font-size: 0.8em;
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
 }
@@ -54,6 +59,10 @@
     text-align: center;
     font-size: smaller;
     width: 65% !important;
+}
+
+#tecnica_recoleccion {
+    font-size: smaller;
 }
 
 .titulo_cita {
@@ -66,4 +75,25 @@
 
 .titulo_libro_cita_referencia {    
     font-style: italic;
+}
+
+p.planteamiento_problema {
+    font-size: smaller;
+}
+
+#presupuesto {
+    font-size: smaller;
+}
+
+#presupuesto thead {
+    background-color: black;
+    color: white;
+}
+
+#presupuesto tbody:last-child tr:last-child td:last-child {
+   text-decoration: underline;
+}
+
+.herramientas_utilizar {
+    font-size: smaller;
 }
